@@ -2,7 +2,7 @@
 
 **Database Name: cms**
 
-**Developed by Ramavath Santhosh**
+**Developed by Animesh Paswan**
 
 **Use PHP**
 
